@@ -34,3 +34,6 @@ pip install -r requirements.txt
 
 ### 提交 Issue
 ### 发送邮件至 [1774958836@qq.com]
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XiaoyaoGG1024/BinCodeBank&type=Timeline)](https://www.star-history.com/#XiaoyaoGG1024/BinCodeBank&Timeline)
